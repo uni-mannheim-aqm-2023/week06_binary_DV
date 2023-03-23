@@ -67,7 +67,10 @@ In this session, we will learn about:
 
 We will discuss all topics about these models by the means of a real science example (and also some fake data). The data we will use is taken from a research article that criticizes the strong focus on statistical significance in large-n studies of conflict. 
 
-Ward et al. (2010): The perils of policy by p-value: Predicting civil conflicts 
+![Ward et al. (2010): The perils of policy by p-value: Predicting civil conflicts](images/Ward_et_al_2010.png)
+
+
+
 
 Let's first load the dataset.
 
